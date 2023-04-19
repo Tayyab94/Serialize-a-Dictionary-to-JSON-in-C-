@@ -1,0 +1,17 @@
+C:\Users\tayya\Desktop\SerializeDictionarytoJSON\SerializeDictionarytoJSON\bin\Debug\net6.0\SerializeDictionarytoJSON.exe
+C:\Users\tayya\Desktop\SerializeDictionarytoJSON\SerializeDictionarytoJSON\bin\Debug\net6.0\SerializeDictionarytoJSON.deps.json
+C:\Users\tayya\Desktop\SerializeDictionarytoJSON\SerializeDictionarytoJSON\bin\Debug\net6.0\SerializeDictionarytoJSON.runtimeconfig.json
+C:\Users\tayya\Desktop\SerializeDictionarytoJSON\SerializeDictionarytoJSON\bin\Debug\net6.0\SerializeDictionarytoJSON.dll
+C:\Users\tayya\Desktop\SerializeDictionarytoJSON\SerializeDictionarytoJSON\bin\Debug\net6.0\SerializeDictionarytoJSON.pdb
+C:\Users\tayya\Desktop\SerializeDictionarytoJSON\SerializeDictionarytoJSON\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\tayya\Desktop\SerializeDictionarytoJSON\SerializeDictionarytoJSON\obj\Debug\net6.0\SerializeDictionarytoJSON.csproj.AssemblyReference.cache
+C:\Users\tayya\Desktop\SerializeDictionarytoJSON\SerializeDictionarytoJSON\obj\Debug\net6.0\SerializeDictionarytoJSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tayya\Desktop\SerializeDictionarytoJSON\SerializeDictionarytoJSON\obj\Debug\net6.0\SerializeDictionarytoJSON.AssemblyInfoInputs.cache
+C:\Users\tayya\Desktop\SerializeDictionarytoJSON\SerializeDictionarytoJSON\obj\Debug\net6.0\SerializeDictionarytoJSON.AssemblyInfo.cs
+C:\Users\tayya\Desktop\SerializeDictionarytoJSON\SerializeDictionarytoJSON\obj\Debug\net6.0\SerializeDictionarytoJSON.csproj.CoreCompileInputs.cache
+C:\Users\tayya\Desktop\SerializeDictionarytoJSON\SerializeDictionarytoJSON\obj\Debug\net6.0\SerializeDictionarytoJSON.csproj.CopyComplete
+C:\Users\tayya\Desktop\SerializeDictionarytoJSON\SerializeDictionarytoJSON\obj\Debug\net6.0\SerializeDictionarytoJSON.dll
+C:\Users\tayya\Desktop\SerializeDictionarytoJSON\SerializeDictionarytoJSON\obj\Debug\net6.0\refint\SerializeDictionarytoJSON.dll
+C:\Users\tayya\Desktop\SerializeDictionarytoJSON\SerializeDictionarytoJSON\obj\Debug\net6.0\SerializeDictionarytoJSON.pdb
+C:\Users\tayya\Desktop\SerializeDictionarytoJSON\SerializeDictionarytoJSON\obj\Debug\net6.0\SerializeDictionarytoJSON.genruntimeconfig.cache
+C:\Users\tayya\Desktop\SerializeDictionarytoJSON\SerializeDictionarytoJSON\obj\Debug\net6.0\ref\SerializeDictionarytoJSON.dll
